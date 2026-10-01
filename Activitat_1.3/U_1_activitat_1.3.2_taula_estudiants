@@ -1,0 +1,42 @@
+{
+  "taula_estudiants": [
+    {
+      "id": "201",
+      "nom": "Anna",
+      "cognom": "Serra",
+      "email": "anna@example.com"
+    },
+    {
+      "id": "202",
+      "nom": "Biel",
+      "cognom": "Amengual",
+      "email": "biel@example.com"
+    },
+    {
+      "id": "203",
+      "nom": "Joan",
+      "cognom": "García",
+      "email": "joan@example.com"
+    }
+  ],
+  "taula_matriculacions": [
+    {
+      "id": "601",
+      "studentid": "201",
+      "modul": "M06",
+      "nota": "8.5"
+    },
+    {
+      "id": "602",
+      "studentid": "202",
+      "modul": "M06",
+      "nota": "9.2"
+    },
+    {
+      "id": "603",
+      "studentid": "203",
+      "modul": "M06",
+      "nota": "7.9"
+    }
+  ]
+}
