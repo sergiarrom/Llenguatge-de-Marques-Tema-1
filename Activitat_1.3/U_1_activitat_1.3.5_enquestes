@@ -1,0 +1,50 @@
+{
+	“enquestes”: [
+		{
+			“id”: 1,
+			“titol”: “Enquesta sobre hàbits i preferències de futbol”,
+			“activa”: true,
+			“preguntes”: [
+				{
+					“ordre”: 1,
+					“text”: “Amb quina freqüència mires partits de futbol a la setmana?”,
+					“tipus”: “opcio_multiple”,
+					“opcions”: [
+						“Més de 3 partits”,
+						“Entre 1 i 3 partits”,
+						“Menys de 1 partit”,
+						“Mai”
+					]
+				},
+				{
+					“ordre”: 2,
+					“text”: “Quines millores proposaries per a la pròxima temporada de futbol?”,
+					“tipus”: “text_lliure”
+				}
+			]
+		},
+		{
+			“id”: 2,
+			“titol”: “Avaluació del torneig local de tennis taula”,
+			“activa”: false,
+			“preguntes”: [
+				{
+					“ordre”: 1,
+					“text”: “Com valoraries la qualitat de les taules i l’equipament del tornaig?”,
+					“tipus”: “opcio_multiple”,
+			    “opcions”: [
+				    "Excel·lent",
+            "Acceptable",
+            "Deficient"
+          ]
+		    },
+		    {
+			    “ordre”: 2,
+			    “text”: “Escriu la teva opinió sobre l’organització dels horaris i partits”,
+		  	  “tipus”: “text_lliure”
+		    }
+	    ]
+    }
+  ]
+}
+
