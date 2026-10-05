@@ -1,0 +1,22 @@
+{
+  “vehicles”: [
+    {
+      “model”: “E-Bike X”,
+      “tipus”: “bicicleta”,
+      “autonomia”: “120km”,
+      “preu”: “1299€”
+    },
+    {
+      “model”: “City-Scoot”,
+      “tipus”: “patinet”,
+      “autonomia”: “45km”,
+      “preu”: “549€”
+    },
+    {
+      “model”: “Eco-Car Z”,
+      “tipus”: “cotxe”,
+      “autonomia”: “410km”,
+      “preu”: “31990€”
+    }
+  ]
+}
