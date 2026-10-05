@@ -1,0 +1,31 @@
+{
+	“animals_marins”: [
+		{
+			“animal”: “Tauró blanc”,
+			“tipus”: “Peix”,
+			“habit”: “Oceànic”,
+			“grandaria”: “6.4 metres de longitud”
+			“pes”: “1900 quilograms”,
+			“estat_conservacio”: “En perill”,
+			“caracteristiques”: “Depredador superior, Temut als oceans per la seva grandària i ferocitat”
+		},
+		{
+			“animal”: “Balena blava”,
+			“tipus”: “Mamífer marí”,
+			“habit”: “Oceànic”,
+			“grandaria”: “30 metres de longitud”
+			“pes”: “200000 quilograms”,
+			“estat_conservacio”: “En perill crític”,
+			“caracteristiques”: “L’animal més gran del planeta, S’alimenta principalment de krill”
+		},
+		{
+			“animal”: “Tortuga Verda”,
+			“tipus”: “Rèptil”,
+			“habit”: “marí”,
+			“grandaria”: “1.5 metres de longitud”
+			“pes”: “150 quilograms”,
+			“estat_conservacio”: “Vulnerable”,
+			“caracteristiques”: “S’alimenta principalment d’algues marines, Realitza migracions de milers dequilòmetres”
+		}
+	]
+}
