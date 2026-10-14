@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<correu_electronic id="1">
-  <capcelera>
-    <remitent></remitent>
-    <destinatari>
-      <per_a></per_a>
-      <cc></cc>
-      <cco></cco>
-    </destinatari>
-    <assumpte></assumpte>
-  </capcelera>
-  <cos></cos>
+<correu_electronic>
+    <assumpte/>
+    <remitent>
+        <nom/>
+        <email/>
+    </remitent>
+    <destinataris>
+        <para>
+            <nom/>
+            <email/>
+        </para>
+        <copia_a>
+            <nom/>
+            <email/>
+        </copia_a>
+    </destinataris>
+    <contingut>
+        <salutacio/>
+        <cos/>
+        <cierre/>
+        <signatura>
+            <nom/>
+            <carrec/>
+        </signatura>
+    </contingut>
+    <adjunts>
+        <adjunt>
+            <nom_fitxer/>
+            <mida/>
+        </adjunt>
+    </adjunts>
 </correu_electronic>
