@@ -1,0 +1,47 @@
+{
+    "facturas": [
+        {
+            "id": 1,
+            "empresa": "Ficticia",
+            "carrer": "Desconegut 1",
+            "ciutat": "Palma, 07001",
+            "data": "21-10-2022",
+            "cif": "Q2826000",
+            "comanda": "número 1",
+            "forma_pagament": "EFECTIU",
+            "telefon": "971123456",
+            "fax": "971987654",
+            "dades_client":{
+                "id": "1",
+                "nom": "Carles Canals González",
+                "adreça_enviament": "Carer Major, 1, Inca, 07300, (Illes Balears)"
+            },
+            "dades_linea_factura": {
+                "id_1": "MII00F",
+                "nom_1": "MICRO PENTIUM IV 300mhz",
+                "quantitat_1": "1",
+                "preu_1": "250€",
+                "IVA_1": "16%",
+                "preu_final_1": "266.80€",
+                "id_2": "MB003",
+                "nom_2": "PLACA BASE QDI P4",
+                "quantitat_2": "1",
+                "preu_2": "180€",
+                "IVA_2": "16%",
+                "preu_final_2": "208.80€",
+                "id_3": "MED876",
+                "nom_3": "DIMM DDR 512MB 3200",
+                "quantitat_3": "2",
+                "preu_3": "40€",
+                "IVA_3": "16%",
+                "preu_final_3": "92.80€",
+                "id_4": "HD250G",
+                "nom_4": "DISC DUR 250GB SATA 7200",
+                "quantitat_4": "4",
+                "preu_4": "120€",
+                "IVA_4": "16%",
+                "preu_final_4": "1145.20€"
+            }
+        }
+    ]
+}
