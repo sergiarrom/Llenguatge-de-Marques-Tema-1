@@ -1,17 +1,40 @@
 {
   "correuElectronic": [
     {
-      "id": "1",
-      "capcalera": {
-      "remitent": "",
-      "destinatari": {
-        "perA": "",
-        "cc": "",
-        "cco": ""
+      "assumpte": "",
+      "remitent": {
+        "nom": "",
+        "email": ""
       },
-      "assumpte": ""
+      "destinataris": {
+        "para": [
+          {
+            "nom": "",
+            "email": ""
+          }
+        ],
+        "copiaA": [
+          {
+            "nom": "",
+            "email": ""
+        }
+        ]
       },
-      "cos": ""
+      "contingut": {
+        "salutacio": "",
+        "cos": "",
+        "cierre": "",
+        "signatura": {
+          "nom": "",
+          "carrec": ""
+        }
+      },
+      "adjunts": [
+        {
+          "nomFitxer": "",
+          "mida": ""
+        }
+      ]
     }
   ]
 }
